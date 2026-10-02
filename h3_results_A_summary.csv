@@ -1,0 +1,3 @@
+protocol,file,file_size_bytes,transfers,mean_seconds,median_seconds,min_seconds,max_seconds,mean_throughput_Mbps,median_throughput_Mbps,mean_h3_overhead_ratio
+HTTP/3,A_10kB,10000,1000,0.002072359,0.001712417,0.001537114,0.016388908,42.4212,46.7176,1.001508
+HTTP/3,A_1MB,1000000,10,0.107621097,0.093503290,0.081102097,0.198965049,80.2101,85.6403,1.000028
